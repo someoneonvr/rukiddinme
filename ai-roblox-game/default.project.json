@@ -1,0 +1,15 @@
+{
+  "name": "AI-Roblox-Game",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "GeneratedAssets": {
+        "$path": "filemanager_output/GeneratedAssets"
+      },
+      "GeneratedScripts": {
+        "$path": "filemanager_output/GeneratedScripts"
+      }
+    }
+  }
+}
